@@ -73,7 +73,7 @@
 					}
 				}
 			],
-			"_postman_id": "49cf5f4f-c4b4-4493-be7c-e3dcf0b96794",
+			"id": "49cf5f4f-c4b4-4493-be7c-e3dcf0b96794",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -149,7 +149,7 @@
 					}
 				}
 			],
-			"_postman_id": "35da6508-eeab-4f11-b0e7-f99494b8491c",
+			"id": "35da6508-eeab-4f11-b0e7-f99494b8491c",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -195,7 +195,7 @@
 					}
 				}
 			],
-			"_postman_id": "17590f77-d0b1-42e5-8b05-749a25464d65",
+			"id": "17590f77-d0b1-42e5-8b05-749a25464d65",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -240,25 +240,24 @@
 	],
 	"variable": [
 		{
-			"id": "3ba18a65-58ad-46a3-b124-a7d131c4605d",
+			"id": "599801b4-a198-4a3c-b6ab-d90728c20389",
 			"key": "isbn",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "672a361c-b432-472d-a54c-225b028235c8",
+			"id": "a6b818fa-a4b2-4cc1-8a21-1e00d22f5257",
 			"key": "book_id",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "a51f0036-3ebe-4e06-b722-3c67a041b347",
+			"id": "0a44b713-b698-4414-b848-a537eb125c9d",
 			"key": "author_name",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "822e79a9-846f-4bbe-964e-784bf08dc2e1",
+			"id": "f6c5ef45-2282-4fdc-bbb4-66b5f5578c8d",
 			"key": "book_name",
 			"value": "",
 			"type": "string"
