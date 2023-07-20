@@ -157,7 +157,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{base_url}}/Library/GetBook.php?ID=RS942276",
+					"raw": "{{base_url}}/Library/GetBook.php?ID={{book_id}}",
 					"host": [
 						"{{base_url}}"
 					],
@@ -168,7 +168,7 @@
 					"query": [
 						{
 							"key": "ID",
-							"value": "RS942276"
+							"value": "{{book_id}}"
 						}
 					]
 				}
@@ -240,24 +240,24 @@
 	],
 	"variable": [
 		{
-			"id": "cbd9f83b-afc5-403f-a10c-614c31d11677",
+			"id": "fd63c9ca-56ec-4f49-bf79-6f4ca53abc40",
 			"key": "isbn",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "f04c7317-851a-4a96-858e-993359ad13c6",
+			"id": "730b99db-1fa7-4aa2-9612-52d26e1993be",
 			"key": "book_id",
 			"value": ""
 		},
 		{
-			"id": "38fe005f-abdf-4b0e-96dd-6114f790f478",
+			"id": "bcf5f2c6-cb41-4665-93f8-b602db0036a6",
 			"key": "author_name",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "856865d0-ad14-4292-995c-57635f2b304f",
+			"id": "b8a2cf01-8c1b-494b-b2dd-1865d05a2ff6",
 			"key": "book_name",
 			"value": "",
 			"type": "string"
