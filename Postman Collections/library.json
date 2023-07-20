@@ -240,24 +240,24 @@
 	],
 	"variable": [
 		{
-			"id": "fd63c9ca-56ec-4f49-bf79-6f4ca53abc40",
+			"id": "3ddaf305-d34c-4f68-aad7-9155cc3465e3",
 			"key": "isbn",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "730b99db-1fa7-4aa2-9612-52d26e1993be",
+			"id": "4e9371e9-3104-4828-af37-f71a565e5d19",
 			"key": "book_id",
 			"value": ""
 		},
 		{
-			"id": "bcf5f2c6-cb41-4665-93f8-b602db0036a6",
+			"id": "1c2c1e41-2059-447e-a389-31b672a528f0",
 			"key": "author_name",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "b8a2cf01-8c1b-494b-b2dd-1865d05a2ff6",
+			"id": "653551b9-fb8c-4ffd-8b9a-0de8fc7a304a",
 			"key": "book_name",
 			"value": "",
 			"type": "string"
